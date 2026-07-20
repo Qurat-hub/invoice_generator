@@ -193,26 +193,13 @@ All data lives entirely on-device — no backend/server is required.
 
 ---
 
-## 🌱 Possible Enhancements (Bonus Ideas)
-
-- QR code for payment on the invoice PDF
-- Customer history & favorite customers
-- Product catalog for quick line-item selection
-- Monthly income summary / revenue trend charts
-- Multiple invoice PDF templates
-- Backup & restore (export/import the SQLite DB)
-- Due-date reminder notifications
-- CSV export of the invoice list
-
----
-
 ## 📸 Screenshots
 
-_Add screenshots here after building and running the app, e.g.:_
 
 | Dashboard | Invoice List | New Invoice | Invoice Detail | Settings |
 |---|---|---|---|---|
-| ![dashboard](screenshots/dashboard.png) | ![list](screenshots/list.png) | ![form](screenshots/form.png) | ![detail](screenshots/detail.png) | ![settings](screenshots/settings.png) |
+| ![dashboard](screenshots/dashboard.png) | ![invoice](screenshots/print.png) | ![form](screenshots/newinvoice.png) | ![detail](screenshots/dashboarddata.png) | ![unpaid](screenshots/unpaid.png) | ![invoice](screenshots/welcomedashboard.png) |
+![Invoice Details](screenshots/invoice.png)
 
 ---
 
