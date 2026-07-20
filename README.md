@@ -198,8 +198,8 @@ All data lives entirely on-device — no backend/server is required.
 
 | Dashboard | Invoice List | New Invoice | Invoice Detail | Settings |
 |---|---|---|---|---|
-| ![dashboard](screenshots/dashboard.png) | ![invoice](screenshots/print.png) | ![form](screenshots/newinvoice.png) | ![detail](screenshots/dashboarddata.png) | ![unpaid](screenshots/unpaid.png) | ![invoice](screenshots/welcomedashboard.png) |
-![Invoice Details](screenshots/invoice.png)
+| ![dashboard](Screenshots/dashboard.png) | ![invoice](Screenshots/print.png) | ![form](Screenshots/newinvoice.png) | ![detail](Screenshots/dashboarddata.png) | ![unpaid](Screenshots/unpaid.png) | ![invoice](Screenshots/welcomedashboard.png) |
+![Invoice Details](Screenshots/invoice.png)
 
 ---
 
