@@ -199,7 +199,7 @@ All data lives entirely on-device — no backend/server is required.
 | Dashboard | Invoice List | New Invoice | Invoice Detail | Settings |
 |---|---|---|---|---|
 | ![dashboard](Screenshots/dashboard.jpeg) | ![invoice](Screenshots/print.jpeg) | ![form](Screenshots/newinvoice.jpeg) | ![detail](Screenshots/dashboarddata.jpeg) | ![unpaid](Screenshots/unpaid.jpeg) | ![invoice](Screenshots/welcomedashboard.jpeg) |
-![Invoice Details](Screenshots/invoice.jpeg)
+![Invoice Details](Screenshots/inovoice.jpeg)|![settingsfilds](Screenshots/settings3.jpeg)
 
 ---
 
